@@ -1,0 +1,5 @@
+# HTTP file server configuration
+# port: listening port (1-65535)
+port=80
+# root: main directory to serve (relative or absolute)
+root=d:\

@@ -1,0 +1,8 @@
+# HTTP File Server Configuration
+# Lines starting with # are comments
+
+# Listening port (1-65535)
+port = 80
+
+# Root directory for file serving
+root = D:\
